@@ -12,7 +12,7 @@ body{
 }
 
 .img{
-    background-image: url(images/image-product-desktop.jpg);
+    background-image: url(image-product-desktop.jpg);
     height: 350px;
     width: 100%;
     border-top-left-radius: 10px;
@@ -80,7 +80,7 @@ button{
     border-radius: 5px;
 }
 .img{
-    background-image: url(images/image-product-mobile.jpg);
+    background-image: url(image-product-mobile.jpg);
     height: 300px;
     width: 100%;
     border-radius: 5px;
@@ -94,5 +94,6 @@ button{
    
 }
 }
+
 
 
